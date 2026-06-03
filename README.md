@@ -4,11 +4,11 @@
 
 ## What is this?
 
-[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with your accepted (or all) solutions using the **GitHub Sync** feature.
+[NeetCode.io](https://neetcode.io) is a coding interview preparation platform featuring curated problems, video solutions, and an in-browser code editor. This repository is automatically populated with my accepted solutions using **GitHub Sync**.
 
 ---
 
-## Repository structure
+## Repo structure
 
 Solutions are organized by topic folder, then problem ID. Each submission is stored as a separate file:
 
